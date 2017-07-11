@@ -78,4 +78,6 @@ builds:
     version: 6.7.0
   b635126b-d5dc-4bbe-9af0-ae3f2f43f3a4:
     version: 6.8.0
+  112af3f7-57d0-448b-b93d-24779be06940:
+    version: 6.9.0
 format-version: '2'
